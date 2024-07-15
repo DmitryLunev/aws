@@ -16,7 +16,7 @@
 ## 💻 Запуск проекта
 Клонирование репозитория:
 ``` bash
-git clone git@github.com:DmitryLunev/asw.git
+git clone git@github.com:DmitryLunev/aws.git
 cd docker_aws_logs
 ```
 Создание виртуального окружения (venv):
